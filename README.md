@@ -5,3 +5,5 @@ toolbox writen in python
 - Extension:
     + input for the searching string
     + input for before / after the string to write down
+## readTestDaily.py
+- Because of credential issue, this function is deployed in pstoolbox under vso repo
